@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bmaoncode
 - 👀 I’m interested in programing(Python),Fashion and Music
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on developing and e-commerce website
+- 💞️ I’m looking to collaborate on developing an e-commerce website
 - 📫 How to reach me 08068262301
 
 <!---
